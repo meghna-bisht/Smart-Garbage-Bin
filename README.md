@@ -6,5 +6,5 @@ Used ESP8266 and Ultrasonic Sensor to detect if the garbage bin is filled up to 
 Steps to run :
   1.Install Arduino IDE and Node RED.
   2.Connect the hardware correctly.
-  3.Run bin.py
+  3.Run garbage_bin.ino
   
